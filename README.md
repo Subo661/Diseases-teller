@@ -1,2 +1,2 @@
 # Diseases-teller
-About the explanation of  all kinds of diseases
+About the explanation of diseases
