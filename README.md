@@ -1,2 +1,2 @@
 # Diseases-teller
-About the explanation of diseases
+## About the classification and explanation of pulmonary diseases with GL models
